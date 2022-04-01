@@ -126,4 +126,4 @@ public class CRUDAluno {
 
 //Buffered não aceita objetos, então é preciso disso para aceitar objeto. Serve para escrita 
 
-//try força o fechamento do comando. Depois de executar, ao terminar ele fecha automaticament
+//try força o fechamento do comando. Depois de executar, ao terminar ele fecha automaticamente
